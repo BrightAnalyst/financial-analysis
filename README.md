@@ -3,8 +3,9 @@
 This project provides a comprehensive financial analysis of Eureka Tech Co., a fictional SaaS company. The analysis covers the company's actual vs. planned revenue, expenses, and profitability over a 3-year period (2022–2024), visualized using interactive Power BI dashboards and documented through a detailed technical report.
 
 ## Dashboard Preview
-![Screenshot 2025-05-13 135323](https://github.com/user-attachments/assets/6c6a0b37-a7cc-4be5-8f6e-5a769c93b627)
-![Screenshot 2025-05-13 134649](https://github.com/user-attachments/assets/abe76ce0-189b-4a54-bf3e-bdfd25562f5b)
+![Screenshot 2025-05-15 132435](https://github.com/user-attachments/assets/a8016c23-aa08-4930-8920-fdaf3ecd1ad8)
+![Screenshot 2025-05-15 085322](https://github.com/user-attachments/assets/87731829-9de4-4abb-b000-7f0e38a8644a)
+
 
 
 
